@@ -1,1 +1,1 @@
-https://r0bomurlok.github.io/react-project/
+https://teplostanski.github.io/react-project/
